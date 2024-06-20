@@ -5,10 +5,15 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #----------------------我的镜像----------------------------
-deluan/navidrome
-hectorqin/reader
-hslr/sun-panel
-ht944/rabbitpro
+#AI大模型
+1panel/maxkb
+justsong/one-api
+zhayujie/chatgpt-on-wechat
+vinlic/glm-free-api
+vinlic/kimi-free-api
+vinlic/spark-free-api
+vinlic/step-free-api
+vinlic/qwen-free-api
 #常用
 b3log/siyuan
 xhofe/alist
@@ -24,15 +29,6 @@ talebook/talebook
 #青龙羊毛
 ht944/rabbitpro
 whyour/qinglong
-#AI大模型
-1panel/maxkb
-justsong/one-api
-zhayujie/chatgpt-on-wechat
-vinlic/glm-free-api
-vinlic/kimi-free-api
-vinlic/spark-free-api
-vinlic/step-free-api
-vinlic/qwen-free-api
 #影音
 cloudnas/clouddrive2-unstable
 johngong/qbittorrent
