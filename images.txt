@@ -20,7 +20,7 @@ xhofe/alist
 deluan/navidrome
 xhongc/music_tag_web
 advplyr/audiobookshelf
-cxfksword/douban-api-rs
+#cxfksword/douban-api-rs
 hectorqin/reader
 hslr/sun-panel
 jvmilazz0/kavita
