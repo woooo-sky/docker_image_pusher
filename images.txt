@@ -33,7 +33,7 @@ whyour/qinglong
 cloudnas/clouddrive2-unstable
 johngong/qbittorrent
 linuxserver/jackett
-yohe/nastool
+#yohe/nastool
 nyanmisaka/jellyfin
 #穿透
 jeessy/ddns-go
