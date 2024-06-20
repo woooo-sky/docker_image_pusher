@@ -6,14 +6,14 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #----------------------我的镜像----------------------------
 #AI大模型
-1panel/maxkb
-justsong/one-api
-zhayujie/chatgpt-on-wechat
 vinlic/glm-free-api
 vinlic/kimi-free-api
 vinlic/spark-free-api
 vinlic/step-free-api
 vinlic/qwen-free-api
+1panel/maxkb
+justsong/one-api
+zhayujie/chatgpt-on-wechat
 #常用
 b3log/siyuan
 xhofe/alist
