@@ -42,4 +42,4 @@ natfrp/frpc
 openfrp/frpc
 #树莓派
 --platform=linux/arm64 mzz2017/v2raya
-harryliu888/chatgpt-on-wecha
+--platform=linux/arm64/v8 harryliu888/chatgpt-on-wechat
