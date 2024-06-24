@@ -14,6 +14,7 @@ vinlic/qwen-free-api
 1panel/maxkb
 justsong/one-api
 zhayujie/chatgpt-on-wechat
+yidadaa/chatgpt-next-web
 #常用
 b3log/siyuan
 xhofe/alist
