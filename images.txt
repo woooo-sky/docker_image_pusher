@@ -1,5 +1,46 @@
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+#----------------------我的镜像---------------------------
+#AI大模型
+vinlic/glm-free-api
+vinlic/kimi-free-api
+vinlic/spark-free-api
+vinlic/step-free-api
+vinlic/qwen-free-api
+1panel/maxkb
+justsong/one-api
+zhayujie/chatgpt-on-wechat
+yidadaa/chatgpt-next-web
+#常用
+b3log/siyuan
+xhofe/alist
+deluan/navidrome
+xhongc/music_tag_web
+advplyr/audiobookshelf
+#cxfksword/douban-api-rs
+hectorqin/reader
+hslr/sun-panel
+jvmilazz0/kavita
+talebook/talebook
+6053537/portainer-ce
+#青龙羊毛
+ht944/rabbitpro
+whyour/qinglong
+#影音
+cloudnas/clouddrive2-unstable
+johngong/qbittorrent
+linuxserver/jackett
+#yohe/nastool
+nyanmisaka/jellyfin
+#穿透
+jeessy/ddns-go
+bestoray/pgyvpn
+natfrp/frpc
+openfrp/frpc
+#树莓派
+--platform=linux/arm64 mzz2017/v2raya
+--platform=linux/arm64/v8 harryliu888/chatgpt-on-wechat
