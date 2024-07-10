@@ -16,6 +16,7 @@ justsong/one-api
 zhayujie/chatgpt-on-wechat
 yidadaa/chatgpt-next-web
 #常用
+codercom/code-server
 b3log/siyuan
 xhofe/alist
 deluan/navidrome
