@@ -16,6 +16,8 @@ justsong/one-api
 zhayujie/chatgpt-on-wechat
 yidadaa/chatgpt-next-web
 #常用
+vinlic/wxkf-api
+vinlic/hailuo-free-api
 lmk123/migpt-server
 hanxi/xiaomusic
 idootop/mi-gpt-tts
