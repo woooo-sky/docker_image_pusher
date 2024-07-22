@@ -11,13 +11,14 @@ vinlic/kimi-free-api
 vinlic/spark-free-api
 vinlic/step-free-api
 vinlic/qwen-free-api
+vinlic/hailuo-free-api
 1panel/maxkb
 justsong/one-api
 zhayujie/chatgpt-on-wechat
 yidadaa/chatgpt-next-web
 #常用
-vinlic/wxkf-api
-vinlic/hailuo-free-api
+xzxxn777/ddddocr
+
 lmk123/migpt-server
 hanxi/xiaomusic
 idootop/mi-gpt-tts
