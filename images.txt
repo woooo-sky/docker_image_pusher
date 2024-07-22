@@ -6,6 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #----------------------我的镜像---------------------------
 #AI大模型
+vinlic/metaso-free-api:latest
 vinlic/glm-free-api
 vinlic/kimi-free-api
 vinlic/spark-free-api
