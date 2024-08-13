@@ -19,7 +19,6 @@ zhayujie/chatgpt-on-wechat
 yidadaa/chatgpt-next-web
 #常用
 xzxxn777/ddddocr
-
 lmk123/migpt-server
 hanxi/xiaomusic
 idootop/mi-gpt-tts
