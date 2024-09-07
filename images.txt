@@ -5,6 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #----------------------我的镜像---------------------------
+wd210010/elesign
 #AI大模型
 vinlic/metaso-free-api:latest
 vinlic/glm-free-api
