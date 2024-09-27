@@ -4,10 +4,12 @@
 #xhofe/alist:latest
 #支持指定架
 #--platform=linux/arm64 xiaoyaliu/alist 
---platform=linux/arm64 zhx47/jd_h5st_server
---platform=linux/amd64 zhx47/jd_h5st_server
+#--platform=linux/arm64 zhx47/jd_h5st_server
+#--platform=linux/amd64 zhx47/jd_h5st_server
 #----------------------我的镜像---------------------------
 #wd210010/elesign
+zhx47/jd_h5st_server:amd64
+zhx47/jd_h5st_server:arm64
 #AI大模型
 vinlic/metaso-free-api:latest
 vinlic/glm-free-api
