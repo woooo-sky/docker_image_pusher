@@ -7,6 +7,11 @@
 #--platform=linux/arm64 zhx47/jd_h5st_server
 #--platform=linux/amd64 zhx47/jd_h5st_server
 #----------------------我的镜像---------------------------
+fooololo/aipan-netdisk-search:latest
+ddsderek/easyimage:latest
+gdy666/lucky
+qingfeng2336/it-tools:latest
+shuiche/mind-map:latest
 #wd210010/elesign
 6053537/portainer-ce:latest
 zhx47/jd_h5st_server:amd64
