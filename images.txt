@@ -14,8 +14,6 @@ qingfeng2336/it-tools:latest
 shuiche/mind-map:latest
 #wd210010/elesign
 6053537/portainer-ce:latest
-zhx47/jd_h5st_server:amd64
-zhx47/jd_h5st_server:arm64
 #AI大模型
 vinlic/metaso-free-api:latest
 vinlic/glm-free-api
