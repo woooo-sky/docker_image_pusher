@@ -19,13 +19,14 @@ shuiche/mind-map:latest
 #AI大模型
 vinlic/doubao-free-api
 vinlic/jimeng-free-api
-vinlic/metaso-free-api:latest
+vinlic/metaso-free-api
 vinlic/glm-free-api
 vinlic/kimi-free-api
 vinlic/spark-free-api
+vinlic/deepseek-free-api
 vinlic/step-free-api
 vinlic/qwen-free-api
-vinlic/hailuo-free-api
+vinlic/minimax-free-api
 1panel/maxkb
 justsong/one-api
 zhayujie/chatgpt-on-wechat
