@@ -49,6 +49,7 @@ hslr/sun-panel
 jvmilazz0/kavita
 talebook/talebook
 6053537/portainer-ce
+codegentoolbox/laftools-linux-x64
 #青龙羊毛
 ht944/rabbitpro
 whyour/qinglong
