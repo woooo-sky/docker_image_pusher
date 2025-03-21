@@ -7,6 +7,8 @@
 #--platform=linux/arm64 zhx47/jd_h5st_server
 #--platform=linux/amd64 zhx47/jd_h5st_server
 #----------------------我的镜像---------------------------
+--platform=linux/arm64 smallfawn/ksj
+--platform=linux/amd64 smallfawn/ksj
 whyour/qinglong:2.17
 star7th/showdoc:latest
 fooololo/aipan-netdisk-search:latest
