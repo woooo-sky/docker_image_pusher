@@ -15,7 +15,6 @@ fooololo/aipan-netdisk-search:latest
 ddsderek/easyimage:latest
 gdy666/lucky
 qingfeng2336/it-tools:latest
-shuiche/mind-map:latest
 #wd210010/elesign
 6053537/portainer-ce:latest
 #AI大模型
