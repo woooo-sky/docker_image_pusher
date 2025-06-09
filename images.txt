@@ -2,7 +2,7 @@
 #支持私有库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-#支持指定架 
+#支持指定架
 #--platform=linux/arm64 xiaoyaliu/alist 
 #--platform=linux/arm64 zhx47/jd_h5st_server
 #--platform=linux/amd64 zhx47/jd_h5st_server
