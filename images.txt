@@ -9,6 +9,9 @@
 #----------------------我的镜像---------------------------
 --platform=linux/arm64 smallfawn/ksj
 --platform=linux/amd64 smallfawn/ksj
+nyanmisaka/jellyfin:latest
+linuxserver/jackett:latest
+johngong/qbittorrent:latest
 whyour/qinglong:2.17
 star7th/showdoc:latest
 fooololo/aipan-netdisk-search:latest
