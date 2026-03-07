@@ -9,6 +9,8 @@
 #----------------------我的镜像--------------------------
 --platform=linux/arm64 smallfawn/ksj
 --platform=linux/amd64 smallfawn/ksj
+1186258278/openclaw-zh:nightly
+1panel/openclaw:latest
 nyanmisaka/jellyfin:latest
 linuxserver/jackett:latest
 johngong/qbittorrent:latest
