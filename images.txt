@@ -9,10 +9,12 @@
 #----------------------我的镜像--------------------------
 --platform=linux/arm64 smallfawn/ksj
 --platform=linux/amd64 smallfawn/ksj
-1186258278/openclaw-zh:2026.3.13-nightly.202603152259
-1186258278/openclaw-zh:2026.3.13-nightly.202603151953
+1186258278/openclaw-zh:2026.3.13-nightly.202603151907
+1186258278/openclaw-zh:2026.3.13-nightly.202603151758
+1186258278/openclaw-zh:2026.3.13-nightly.202603151701
+1186258278/openclaw-zh:2026.3.13-nightly.202603151556
+1186258278/openclaw-zh:2026.3.13-nightly.202603151459
 1186258278/openclaw-zh:2026.3.13-nightly.202603151405
-1186258278/openclaw-zh:2026.3.13-nightly.202603150342
 1186258278/openclaw-zh:nightly
 1panel/openclaw:latest
 nyanmisaka/jellyfin:latest
