@@ -4,3 +4,18 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+johngong/qbittorrent:latest
+nyanmisaka/jellyfin:latest
+1186258278/openclaw-zh:nightly
+b3log/siyuan:latest
+hslr/sun-panel:latest
+pull jvmilazz0/kavita:latest
+hectorqin/reader:latest
+deluan/navidrome:latest
+deluan/navidrome:latest
+advplyr/audiobookshelf:latest
+talebook/talebook:latest
+jeessy/ddns-go:latest
+justsong/one-api:latest
+natfrp/frpc:latest
