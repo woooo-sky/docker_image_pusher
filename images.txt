@@ -10,7 +10,7 @@ nyanmisaka/jellyfin:latest
 1186258278/openclaw-zh:nightly
 b3log/siyuan:latest
 hslr/sun-panel:latest
-pull jvmilazz0/kavita:latest
+jvmilazz0/kavita:latest
 hectorqin/reader:latest
 deluan/navidrome:latest
 deluan/navidrome:latest
