@@ -19,9 +19,8 @@ talebook/talebook:latest
 jeessy/ddns-go:latest
 justsong/one-api:latest
 natfrp/frpc:latest
-1186258278/openclaw-zh:2026.3.28-nightly.202603312107
-1186258278/openclaw-zh:2026.3.28-nightly.202603311549
-1186258278/openclaw-zh:2026.4.2-zh.2
+1186258278/openclaw-zh:2026.3.23-2-zh.2
+1186258278/openclaw-zh:2026.3.24-nightly.202603282359
 1186258278/openclaw-zh:2026.3.28-zh.2
-alpine/openclaw:2026.3.28
+1186258278/openclaw-zh:2026.4.2-zh.2
 
