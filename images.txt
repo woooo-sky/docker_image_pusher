@@ -4,10 +4,8 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-
 johngong/qbittorrent:latest
 nyanmisaka/jellyfin:latest
-1186258278/openclaw-zh:nightly
 b3log/siyuan:latest
 hslr/sun-panel:latest
 jvmilazz0/kavita:latest
@@ -19,6 +17,9 @@ talebook/talebook:latest
 jeessy/ddns-go:latest
 justsong/one-api:latest
 natfrp/frpc:latest
+ghcr.io/openclaw/openclaw:2026.4.15
+ghcr.io/openclaw/openclaw:latest
+1186258278/openclaw-zh:nightly
 1186258278/openclaw-zh:2026.3.13-nightly.202603230943
 1186258278/openclaw-zh:2026.3.23-2-zh.2
 1186258278/openclaw-zh:2026.3.24-nightly.202603282359
