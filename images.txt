@@ -4,27 +4,26 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-smanx/qwen2api:latest
-bitsea19/doubao-free-api:latest
-rfym21/qwen2api:latest
-yujunzhixue/qwen2api:latest
-johngong/qbittorrent:latest
-nyanmisaka/jellyfin:latest
 b3log/siyuan:latest
 hslr/sun-panel:latest
 jvmilazz0/kavita:latest
 hectorqin/reader:latest
 deluan/navidrome:latest
-deluan/navidrome:latest
+xhongc/music_tag_web:latest
 advplyr/audiobookshelf:latest
 talebook/talebook:latest
 jeessy/ddns-go:latest
-justsong/one-api:latest
 natfrp/frpc:latest
-ghcr.io/openclaw/openclaw:2026.4.15
+
+johngong/qbittorrent:latest
+nyanmisaka/jellyfin:latest
+
+justsong/one-api:latest
+bitsea19/doubao-free-api:latest
+yidadaa/chatgpt-next-web:latest
 ghcr.io/openclaw/openclaw:latest
 1186258278/openclaw-zh:nightly
-1186258278/openclaw-zh:2026.3.13-nightly.202603230943
 1186258278/openclaw-zh:2026.4.15-zh.1
-1186258278/openclaw-zh:2026.4.15-nightly.202604190003
 
+portainer/portainer-ce:latest
+gdy666/lucky:v3
