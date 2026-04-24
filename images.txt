@@ -15,6 +15,11 @@ talebook/talebook:latest
 jeessy/ddns-go:latest
 natfrp/frpc:latest
 
+guohuiyuan/go-novel-dl:latest
+lampon/omnibox:latest
+cropflre/nowen-note:latest
+marcobaobao/yt-dlp-webui:latest
+
 johngong/qbittorrent:latest
 nyanmisaka/jellyfin:latest
 
