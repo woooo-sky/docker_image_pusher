@@ -3,6 +3,7 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
 #日常
 b3log/siyuan:latest
 hslr/sun-panel:latest
@@ -19,9 +20,12 @@ marcobaobao/yt-dlp-webui:latest
 
 #api
 yilee01/chat2api:latest
+akashrajpuroh1t/qwen-free-api-fix:latest
+akashrajpuroh1t/deepseek-free-api-fix:latest
+akashrajpuroh1t/kimi-free-api-fix:latest
+akashrajpuroh1t/glm-free-api-fix:latest
+akashrajpuroh1t/minimax-free-api-fix:latest
 bitsea19/doubao-free-api:latest
-akashrajpuroh1t/kimi-free-api
-rfym21/qwen2api:latest
 calciumion/new-api:latest
 justsong/one-api:latest
 yidadaa/chatgpt-next-web:latest
@@ -31,15 +35,19 @@ deluan/navidrome:latest
 xhongc/music_tag_web:latest
 johngong/qbittorrent:latest
 nyanmisaka/jellyfin:latest
+
 #智能体hermes
 nousresearch/hermes-agent:latest
 lingganwu/hermes-web-ui
+
 #智能体openclaw
 1186258278/openclaw-zh:latest
 1186258278/openclaw-zh:2026.4.22-zh.2
 #ghcr.io/openclaw/openclaw:latest
 #1186258278/openclaw-zh:nightly
 #1186258278/openclaw-zh:2026.4.15-zh.1
+
 #备用
 portainer/portainer-ce:latest
 gdy666/lucky:v3
+
