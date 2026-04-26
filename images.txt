@@ -20,6 +20,7 @@ marcobaobao/yt-dlp-webui:latest
 #api
 yilee01/chat2api:latest
 bitsea19/doubao-free-api:latest
+akashrajpuroh1t/kimi-free-api
 rfym21/qwen2api:latest
 calciumion/new-api:latest
 justsong/one-api:latest
