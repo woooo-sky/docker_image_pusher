@@ -18,6 +18,12 @@ lampon/omnibox:latest
 cropflre/nowen-note:latest
 marcobaobao/yt-dlp-webui:latest
 
+#影音
+deluan/navidrome:latest
+xhongc/music_tag_web:latest
+johngong/qbittorrent:latest
+nyanmisaka/jellyfin:latest
+
 #api
 yilee01/chat2api:latest
 akashrajpuroh1t/qwen-free-api-fix:latest
@@ -30,22 +36,17 @@ calciumion/new-api:latest
 justsong/one-api:latest
 yidadaa/chatgpt-next-web:latest
 
-#影视
-deluan/navidrome:latest
-xhongc/music_tag_web:latest
-johngong/qbittorrent:latest
-nyanmisaka/jellyfin:latest
+#智能体openclaw
+1186258278/openclaw-zh:latest
+1186258278/openclaw-zh:2026.4.24-zh.1
+#1186258278/openclaw-zh:2026.4.22-zh.2
+#ghcr.io/openclaw/openclaw:latest
+#1186258278/openclaw-zh:nightly
+#1186258278/openclaw-zh:2026.4.15-zh.1
 
 #智能体hermes
 nousresearch/hermes-agent:latest
 lingganwu/hermes-web-ui
-
-#智能体openclaw
-1186258278/openclaw-zh:latest
-1186258278/openclaw-zh:2026.4.22-zh.2
-#ghcr.io/openclaw/openclaw:latest
-#1186258278/openclaw-zh:nightly
-#1186258278/openclaw-zh:2026.4.15-zh.1
 
 #备用
 portainer/portainer-ce:latest
