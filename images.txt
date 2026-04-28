@@ -31,8 +31,7 @@ akashrajpuroh1t/kimi-free-api-fix:latest
 akashrajpuroh1t/glm-free-api-fix:latest
 akashrajpuroh1t/minimax-free-api-fix:latest
 bitsea19/doubao-free-api:latest
-rfym21/qwen2api:latest
-yujunzhixue/qwen2api:latest
+smanx/qwen2api:latest
 calciumion/new-api:latest
 justsong/one-api:latest
 yidadaa/chatgpt-next-web:latest
