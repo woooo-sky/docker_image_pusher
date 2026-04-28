@@ -39,7 +39,7 @@ yidadaa/chatgpt-next-web:latest
 
 #智能体openclaw
 1186258278/openclaw-zh:latest
-1186258278/openclaw-zh:2026.4.24-zh.1
+1186258278/openclaw-zh:2026.4.25-zh.2
 #1186258278/openclaw-zh:2026.4.22-zh.2
 #ghcr.io/openclaw/openclaw:latest
 #1186258278/openclaw-zh:nightly
