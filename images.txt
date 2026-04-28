@@ -25,6 +25,7 @@ nyanmisaka/jellyfin:latest
 lampon/omnibox:latest
 
 #api
+ghcr.io/woooo-sky/chat2api:latest
 yilee01/chat2api:latest
 akashrajpuroh1t/qwen-free-api-fix:latest
 akashrajpuroh1t/deepseek-free-api-fix:latest
