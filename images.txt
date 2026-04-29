@@ -5,6 +5,7 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #日常
+gdy666/lucky
 b3log/siyuan:latest
 hslr/sun-panel:latest
 jvmilazz0/kavita:latest
