@@ -6,6 +6,7 @@ nginx
 
 #日常
 gdy666/lucky
+gdy666/lucky:v2
 b3log/siyuan:latest
 hslr/sun-panel:latest
 jvmilazz0/kavita:latest
@@ -51,5 +52,5 @@ lingganwu/hermes-web-ui
 
 #备用
 portainer/portainer-ce:latest
-gdy666/lucky:v3
+
 
