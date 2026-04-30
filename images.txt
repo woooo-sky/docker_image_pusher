@@ -10,6 +10,7 @@ gdy666/lucky:v2
 gdy666/lucky:v3
 b3log/siyuan:latest
 hslr/sun-panel:latest
+cropflre/nowen:latest
 jvmilazz0/kavita:latest
 hectorqin/reader:latest
 advplyr/audiobookshelf:latest
