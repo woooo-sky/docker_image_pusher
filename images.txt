@@ -30,6 +30,7 @@ nyanmisaka/jellyfin:latest
 lampon/omnibox:latest
 
 #api
+ghcr.io/cjackhwang/ds2api
 akashrajpuroh1t/qwen-free-api-fix:latest
 akashrajpuroh1t/deepseek-free-api-fix:latest
 akashrajpuroh1t/kimi-free-api-fix:latest
