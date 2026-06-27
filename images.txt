@@ -13,7 +13,7 @@ b3log/siyuan:latest
 hslr/sun-panel:latest
 cropflre/nowen:latest
 jvmilazz0/kavita:latest
-hectorqin/reader:latest
+#hectorqin/reader:latest
 advplyr/audiobookshelf:latest
 talebook/talebook:latest
 jeessy/ddns-go:latest
