@@ -22,6 +22,7 @@ guohuiyuan/go-novel-dl:latest
 cropflre/nowen-note:latest
 marcobaobao/yt-dlp-webui:latest
 ghcr.io/wttwins/wrong-notebook
+weikedata/wrong-notebook
 
 #影音
 deluan/navidrome:latest
