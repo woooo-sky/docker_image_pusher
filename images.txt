@@ -21,7 +21,7 @@ natfrp/frpc:latest
 guohuiyuan/go-novel-dl:latest
 cropflre/nowen-note:latest
 marcobaobao/yt-dlp-webui:latest
-ghcr.io/wttwins/wrong-notebook
+ghcr.io/wttwins/wrong-notebook:1.9.1
 weikedata/wrong-notebook
 
 #影音
