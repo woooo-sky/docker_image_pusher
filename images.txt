@@ -29,6 +29,7 @@ deluan/navidrome:latest
 xhongc/music_tag_web:latest
 johngong/qbittorrent:latest
 nyanmisaka/jellyfin:latest
+nyanmisaka/jellyfin:260326-amd64
 lampon/omnibox:latest
 
 #api
