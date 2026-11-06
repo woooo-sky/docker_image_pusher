@@ -11,6 +11,7 @@ gdy666/lucky:v2
 gdy666/lucky:v3
 b3log/siyuan:latest
 ghcr.io/tianma-if/edgeever
+d780/denova:latest
 isle204/denova:latest
 hslr/sun-panel:latest
 cropflre/nowen:latest
