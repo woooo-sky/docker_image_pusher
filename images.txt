@@ -6,7 +6,7 @@ nginx
 
 #日常
 searxng/searxng:latest
-gdy666/lucky
+#gdy666/lucky
 gdy666/lucky:v2
 gdy666/lucky:v3
 b3log/siyuan:latest
