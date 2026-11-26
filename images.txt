@@ -10,22 +10,22 @@ searxng/searxng:latest
 gdy666/lucky:v2
 #gdy666/lucky:v3
 b3log/siyuan:latest
-ghcr.io/tianma-if/edgeever
-d780/denova:latest
-isle204/denova:latest
+#ghcr.io/tianma-if/edgeever
+#d780/denova:latest
+#isle204/denova:latest
 hslr/sun-panel:latest
-cropflre/nowen:latest
+#cropflre/nowen:latest
 jvmilazz0/kavita:latest
 #hectorqin/reader:latest
 advplyr/audiobookshelf:latest
 talebook/talebook:latest
-jeessy/ddns-go:latest
+#jeessy/ddns-go:latest
 natfrp/frpc:latest
 guohuiyuan/go-novel-dl:latest
-cropflre/nowen-note:latest
-marcobaobao/yt-dlp-webui:latest
+#cropflre/nowen-note:latest
+#marcobaobao/yt-dlp-webui:latest
 ghcr.io/wttwins/wrong-notebook:1.9.1
-weikedata/wrong-notebook
+#weikedata/wrong-notebook
 
 #影音
 deluan/navidrome:latest
@@ -33,33 +33,33 @@ xhongc/music_tag_web:latest
 songloft/songloft:latest
 johngong/qbittorrent:latest
 nyanmisaka/jellyfin:latest
-nyanmisaka/jellyfin:260326-amd64
+#nyanmisaka/jellyfin:260326-amd64
 lampon/omnibox:latest
 
 #api
-ghcr.io/cjackhwang/ds2api
+#ghcr.io/cjackhwang/ds2api
 akashrajpuroh1t/qwen-free-api-fix:latest
 akashrajpuroh1t/deepseek-free-api-fix:latest
 akashrajpuroh1t/kimi-free-api-fix:latest
 akashrajpuroh1t/glm-free-api-fix:latest
 akashrajpuroh1t/minimax-free-api-fix:latest
 bitsea19/doubao-free-api:latest
-smanx/qwen2api:latest
+#smanx/qwen2api:latest
 calciumion/new-api:latest
-justsong/one-api:latest
+#justsong/one-api:latest
 yidadaa/chatgpt-next-web:latest
 
 #智能体openclaw
-ghcr.io/openclaw/openclaw:latest
-1186258278/openclaw-zh:latest
+#ghcr.io/openclaw/openclaw:latest
+#1186258278/openclaw-zh:latest
 #ghcr.io/openclaw/openclaw:2026.4.12
 1186258278/openclaw-zh:2026.6.10-zh.1
 
 #智能体hermes
-nousresearch/hermes-agent:latest
-lingganwu/hermes-web-ui
+#nousresearch/hermes-agent:latest
+#lingganwu/hermes-web-ui
 
 #备用
-portainer/portainer-ce:latest
+#portainer/portainer-ce:latest
 
 
