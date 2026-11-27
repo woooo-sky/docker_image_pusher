@@ -5,7 +5,6 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #日常
-nyanmisaka/jellyfin:latest
 searxng/searxng:latest
 gdy666/lucky:v2
 b3log/siyuan:latest
@@ -22,7 +21,7 @@ deluan/navidrome:latest
 xhongc/music_tag_web:latest
 songloft/songloft:latest
 johngong/qbittorrent:latest
-nyanmisaka/jellyfin:latest
+#nyanmisaka/jellyfin:latest
 #nyanmisaka/jellyfin:260326-amd64
 lampon/omnibox:latest
 
